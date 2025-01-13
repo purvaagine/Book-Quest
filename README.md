@@ -84,7 +84,6 @@ The application will be accessible locally at `http://127.0.0.1:7860`. Use the `
 - **Advanced Search Options**: Add filters like keywords, date ranges, or metadata for queries.
 - **Multilingual Support**: Allow queries in multiple languages.
 - **User Authentication**: Secure API key storage with user-specific settings.
-- 
 ---
 
 ## **Contributing**
